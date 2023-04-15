@@ -1,5 +1,5 @@
 # Foundation of algorithm  
-EN 605.621 summer Foundation of algorithm  assignments 
+EN 605.621 summer Foundation of algorithm  assignments  
 Each assignment have the idea environment file, src source code file, a summary analysis pdf file of the project, the exemplary i/o file are also provided if the Lab need and a readme file which provided the guidance of the using and basic information.
 
 Content:  
